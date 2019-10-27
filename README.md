@@ -5,3 +5,5 @@ Input: xxx.img
 Output:2016 Chevrolet Cruze LT
 
 full Youtube video link introduce the whole project: https://www.youtube.com/watch?v=rTYx9T65DqU
+
+I also include all my reading notes of deep learning. Feel free to check out.
